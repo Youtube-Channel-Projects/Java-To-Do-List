@@ -1,18 +1,14 @@
-## Getting Started
+# Java To-Do List 📝
+A simple and interactive desktop To-Do List application built using Java Swing. This project allows users to add, mark as done, and delete tasks in a minimal and user-friendly interface.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Features
+-  Add tasks through a text input
+-  Mark tasks as completed moving them to a finished section
+-  Delete tasks at any time
+-  Clean, responsive UI using Java Swing
+-  Scrollable task sections for longer lists
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Technologies Used
+- Java 17+
+- Java Swing (GUI Framework)
+- VS Code 
